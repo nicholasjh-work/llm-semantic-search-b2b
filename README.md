@@ -1,4 +1,4 @@
-#  LLM Semantic Search for B2B eCommerce (Staples-Inspired)
+#  LLM Semantic Search for B2B eCommerce
 
 This project demonstrates a **local AI-powered semantic search system** that interprets natural language queries and maps them to structured product filters — designed for a **B2B office-supplies digital catalog**.
 
